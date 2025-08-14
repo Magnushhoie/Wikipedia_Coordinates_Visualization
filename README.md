@@ -6,20 +6,21 @@ How does a blind LLM see the Earth? By memorizing GCS co-ordinates. A simple too
 
 > Response to: https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth
 
+Wikipedia co-ordinate map vs LLM map:
+![Delta GIF](delta.gif)
+
 ## Overview
 
 This project downloads geographic coordinate data from Wikipedia entities and creates visualizations showing their global distribution. The resulting map may reveal whether AI models are memorizing coordinate patterns from text rather than developing true geographic understanding.
 
 Wikipedia GCS co-ordinate map:
-
 ![Coordinate Distribution Plot](coords_sampled.png)
 
 LLM generated map hermes-3-llama-3.1-405b:
-
 ![LLM Generated Map](hermes-3-llama-3.1-405b.png)
 
 Delta GIF:
-![Delta GIF](delta.gif)
+
 
 ## Usage
 
