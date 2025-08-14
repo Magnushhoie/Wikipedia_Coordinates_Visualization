@@ -18,6 +18,9 @@ LLM generated map hermes-3-llama-3.1-405b:
 
 ![LLM Generated Map](hermes-3-llama-3.1-405b.png)
 
+Delta GIF:
+![Delta GIF](delta.gif)
+
 ## Usage
 
 ### 1. Download Data
