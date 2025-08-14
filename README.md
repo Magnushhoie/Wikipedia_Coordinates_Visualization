@@ -16,8 +16,8 @@ This project downloads geographic coordinate data from Wikipedia entities and cr
 Wikipedia GCS co-ordinate map:
 ![Coordinate Distribution Plot](coords_sampled.png)
 
-LLM generated map hermes-3-llama-3.1-405b:
-![LLM Generated Map](hermes-3-llama-3.1-405b.png)
+LLM generated map GPT-4.1:
+![LLM Generated Map](gpt_41.png)
 
 Delta GIF:
 
