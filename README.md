@@ -1,6 +1,6 @@
 # Geographic Coordinates Visualization
 
-How does an LLM see the world?
+How does an LLM see the world?  This project downloads geographic coordinate data from Wikipedia entities and creates visualizations showing their global distribution. The resulting map may reveal whether AI models are memorizing coordinate patterns from text rather than developing true geographic understanding.
 
 *Hypothesis**: LLM geographic knowledge may simply reflect coordinate density in training data rather than spatial reasoning. If true, plotting Wikipedia coordinates should correlate with how well language models can map Earth's landmasses.
 
@@ -9,9 +9,8 @@ How does an LLM see the world?
 Wikipedia co-ordinate map vs LLM map:
 ![Delta GIF](delta.gif)
 
-## Overview
+## Maps
 
-This project downloads geographic coordinate data from Wikipedia entities and creates visualizations showing their global distribution. The resulting map may reveal whether AI models are memorizing coordinate patterns from text rather than developing true geographic understanding.
 
 Wikipedia GCS co-ordinate map:
 ![Coordinate Distribution Plot](coords_sampled.png)
