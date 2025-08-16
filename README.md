@@ -1,8 +1,6 @@
 # Geographic Coordinates Visualization
 
-How does a blind LLM see the Earth? By memorizing GCS co-ordinates. A simple tool for plotting world coordinates from Wikipedia data.
-
-> **Hypothesis**: LLM geographic knowledge may simply reflect coordinate density in training data rather than spatial reasoning. If true, plotting Wikipedia coordinates should correlate with how well language models can map Earth's landmasses.
+*Hypothesis**: LLM geographic knowledge may simply reflect coordinate density in training data rather than spatial reasoning. If true, plotting Wikipedia coordinates should correlate with how well language models can map Earth's landmasses.
 
 > Response to: https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth
 
