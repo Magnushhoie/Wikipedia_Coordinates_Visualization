@@ -1,5 +1,7 @@
 # Geographic Coordinates Visualization
 
+How does an LLM see the world?
+
 *Hypothesis**: LLM geographic knowledge may simply reflect coordinate density in training data rather than spatial reasoning. If true, plotting Wikipedia coordinates should correlate with how well language models can map Earth's landmasses.
 
 > Response to: https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth
